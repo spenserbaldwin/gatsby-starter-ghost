@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://spenserbaldwin.herokuapp.com",
+    "contentApiKey": "db6b5ad9633b1261d051d38fe9"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://spenserbaldwin.herokuapp.com",
+    "contentApiKey": "db6b5ad9633b1261d051d38fe9"
   }
 }
